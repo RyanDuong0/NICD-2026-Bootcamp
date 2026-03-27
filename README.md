@@ -1,3 +1,5 @@
+![Flow Map Demo](retention.gif)
+
 # National Innovation Centre for Data (NICD) – Accenture Retention Dashboard
 
 ## Project Overview
